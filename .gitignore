@@ -1,0 +1,4 @@
+camera_vivi/*.o
+camera_vivi/*.ko
+cmake-build-debug
+./idea
